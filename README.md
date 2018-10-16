@@ -19,3 +19,5 @@ MiaoVideoServer is a server based on django. It provides a convinent way for one
 -authentication
 -support more video format
 -IOS compatibility 
+
+>xia mian mei you le
